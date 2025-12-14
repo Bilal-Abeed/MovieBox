@@ -24,7 +24,7 @@ It includes multiple sections, interactive elements, and responsive navigation d
 
 # Live Preview
 You can view the live version of the website via GitHub Pages:
-Add your GitHub Pages link here
+(https://bilal-abeed.github.io/MovieBox/)
 
 # Developers
 - Bilal Abeed
