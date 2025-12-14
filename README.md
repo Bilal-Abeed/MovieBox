@@ -30,6 +30,3 @@ Add your GitHub Pages link here
 - Bilal Abeed
 - Mohammed Omar
 
-Bilal Abeed
-
-Mohammed Omar
